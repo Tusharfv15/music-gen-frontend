@@ -2,6 +2,10 @@
 
 A full-stack AI-powered music generation platform that creates songs with lyrics and thumbnails using state-of-the-art machine learning models deployed on serverless GPU infrastructure.
 
+<!-- TODO: Add hero image/demo GIF showing the complete music generation process -->
+<img width="1853" height="768" alt="image" src="https://github.com/user-attachments/assets/40d512d0-fd59-4b5b-ae97-6356523a9e3e" />
+
+
 ## 🎵 Features
 
 - **AI Music Generation**: Create high-quality music tracks from text descriptions
@@ -61,6 +65,9 @@ A full-stack AI-powered music generation platform that creates songs with lyrics
   - Prompt-based artistic style generation
 
 ## 🔄 Queue System (Inngest)
+
+<img width="1590" height="682" alt="image" src="https://github.com/user-attachments/assets/4636df84-030c-4789-a6ec-02e5a3f345eb" />
+
 
 The platform implements a sophisticated queue system using Inngest to ensure reliable music generation:
 
