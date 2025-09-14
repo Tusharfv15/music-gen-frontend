@@ -21,7 +21,6 @@ export const env = createEnv({
     GENERATE_FROM_DESCRIBED_LYRICS: z.string(),
     GENERATE_WITH_LYRICS: z.string(),
     BETTER_AUTH_SECRET: z.string(),
-    BETTER_AUTH_URL: z.string(),
   },
 
   /**
