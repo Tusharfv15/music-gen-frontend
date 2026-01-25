@@ -21,6 +21,7 @@ export const env = createEnv({
     GENERATE_FROM_DESCRIBED_LYRICS: z.string(),
     GENERATE_WITH_LYRICS: z.string(),
     BETTER_AUTH_SECRET: z.string(),
+    INNGEST_EVENT_KEY: z.string(),
   },
 
   /**
@@ -49,6 +50,7 @@ export const env = createEnv({
     GENERATE_FROM_DESCRIBED_LYRICS: process.env.GENERATE_FROM_DESCRIBED_LYRICS,
     GENERATE_WITH_LYRICS: process.env.GENERATE_WITH_LYRICS,
     BETTER_AUTH_SECRET: process.env.BETTER_AUTH_SECRET,
+    INNGEST_EVENT_KEY: process.env.INNGEST_EVENT_KEY
     
     // NEXT_PUBLIC_CLIENTVAR: process.env.NEXT_PUBLIC_CLIENTVAR,
   },
