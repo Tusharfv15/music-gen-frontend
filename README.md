@@ -66,9 +66,7 @@ A full-stack AI-powered music generation platform that creates songs with lyrics
   - Prompt-based artistic style generation
 
 ## 🔄 Queue System (Inngest)
-
-<img width="1590" height="682" alt="image" src="https://github.com/user-attachments/assets/4636df84-030c-4789-a6ec-02e5a3f345eb" />
-
+<img width="5516" height="1781" alt="Untitled-2025-05-08-2210" src="https://github.com/user-attachments/assets/36cfcf40-4997-4aa7-bf39-ad3a5cd9b4ee" />
 
 The platform implements a sophisticated queue system using Inngest to ensure reliable music generation:
 
